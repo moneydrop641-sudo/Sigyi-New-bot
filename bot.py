@@ -24,7 +24,7 @@ import re; CODE = r"""
 @0 from google import genai
 @0 from google.genai import types
 @0 import yt_dlp
-@0 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip() or "YOUR_BOT_TOKEN_HERE"
+@0 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip() or "8827371405:AAGkqitsGmjWDSz0cFvEis0h3WT75toue1A"
 @0 DB_FILE = "users.json"
 @0 SESSIONS, ACTIVE_TASKS = {}, {}
 @0 VOICES = ["Zephyr", "Charon", "Puck", "Kore", "Fenrir", "Aoede", "Leda", "Orus", "Callirrhoe", "Autonoe"]

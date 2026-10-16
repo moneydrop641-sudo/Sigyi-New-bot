@@ -2,3 +2,4 @@ python-telegram-bot>=21.0,<23.0
 google-genai>=1.0.0
 edge-tts>=7.0.0
 yt-dlp>=2025.1.15
+faster-whisper
